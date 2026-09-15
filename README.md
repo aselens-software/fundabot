@@ -8,11 +8,11 @@ Why clutter your server with 10 different bots when Funda can do it all? Designe
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-Funda-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Invite](https://img.shields.io/badge/Bot-Invite_Funda-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Top.gg](https://img.shields.io/badge/Top.gg-Vote-ff3366?style=for-the-badge)](#)
-[![DiscordBotList](https://img.shields.io/badge/DiscordBotList-Vote-blueviolet?style=for-the-badge)](#)
-[![DiscordList](https://img.shields.io/badge/DiscordList-Vote-informational?style=for-the-badge)](#)
+[![Website](https://img.shields.io/badge/Website-Funda-blue?style=for-the-badge&logo=googlechrome&logoColor=white)]([#](https://funda.aselens.com))
+[![Invite](https://img.shields.io/badge/Bot-Invite_Funda-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#https://discord.com/oauth2/authorize?client_id=476716836822712330&scope=bot%20applications.commands&permissions=8)
+[![Top.gg](https://img.shields.io/badge/Top.gg-Vote-ff3366?style=for-the-badge)]([#](https://top.gg/tr/bot/476716836822712330))
+[![DiscordBotList](https://img.shields.io/badge/DiscordBotList-Vote-blueviolet?style=for-the-badge)]([#](https://discordbotlist.com/bots/funda))
+[![DiscordList](https://img.shields.io/badge/DiscordList-Vote-informational?style=for-the-badge)]([#](https://discordlist.gg/bot/476716836822712330))
 
 </div>
 
